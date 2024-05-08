@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/10.2.4-none?style=flat&label=npm%20version&labelColor=red)
+![Static Badge](https://img.shields.io/badge/10.2.4-none?style=flat&label=npm&labelColor=red)
 
 </div>
 
