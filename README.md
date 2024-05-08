@@ -12,6 +12,5 @@
 </div>
 
 ## Synopsis :
-We model 3D coupled with a rendering engine such as
-<span style="color:red">Unreal Engine</span>
+Dimension Fusion coupled with a rendering engine such as Unreal Engine
 to allow you to bring larger games to life
