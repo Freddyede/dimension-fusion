@@ -1,4 +1,4 @@
-# <center>Dimension Fusion :</center>
+# <p align="center">Dimension Fusion :</p>
 
 <img src="./assets/img/logo.png" alt="logo" style="width: 100vw; height: 50vh;">
 
