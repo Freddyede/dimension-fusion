@@ -2,6 +2,11 @@
 
 <img src="./assets/img/logo.png" alt="logo" style="width: 100vw; height: 50vh;">
 
+<p align="center">
+
+![Static Badge](https://img.shields.io/badge/10.2.4-blue?style=flat&label=npm&labelColor=red)
+</p>
+
 ## Synopsis :
 We model 3D coupled with a rendering engine such as
 <span style="color:red">Unreal Engine</span>
