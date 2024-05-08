@@ -3,11 +3,11 @@
 <img src="./assets/img/logo.png" alt="logo" style="width: 100vw; height: 50vh;">
 
 
-<center>
+<div align="center">
 
 ![Static Badge](https://img.shields.io/badge/10.2.4-blue?style=flat&label=npm&labelColor=red)
 
-</center>
+</div>
 
 ## Synopsis :
 We model 3D coupled with a rendering engine such as
