@@ -7,8 +7,7 @@
 
 ![Static Badge](https://img.shields.io/badge/10.2.4-none?style=flat&label=npm&labelColor=red)
 ![Static Badge](https://img.shields.io/badge/0.0.1-none?style=flat&label=projet%20version&labelColor=blue)
-![Static Badge](https://img.shields.io/badge/1-none?style=flat&label=contributors&labelColor=orange)
-
+![Static Badge](https://img.shields.io/badge/1-none?style=flat&label=contributors&labelColor=purple)
 
 </div>
 
